@@ -14,3 +14,62 @@ The IT & Programming skill set are __not__ created ourself. Instead we just copy
 ## Apache Hive
 ![Apache Hive](art/apache-hive.png)
 
+## ASP
+![ASP](art/asp.png)
+
+
+## ATL
+![ATL](art/atl.png)
+
+
+## JIRA
+![JIRA](art/jira.png)
+
+
+## Big data
+![Big data](art/bigdata.png)
+
+
+## AWK
+![AWK](art/awk.png)
+
+
+## CentOS
+![CentOS](art/centos.png)
+
+
+## Couldera
+![Cloudera](art/cloudera.png)
+
+
+## Cocoa
+![Cocoa](art/cocoa.png)
+
+
+## CoffeeScript
+![CoffeeScript](art/coffeescript.png)
+
+
+## Corba
+![Corba](art/corba.png)
+
+
+## CSS
+![CSS](art/css.png)
+
+
+## Dart
+![Dart](art/dart.png)
+
+
+## Google Chrome Extention
+![Google Chrmoe Extension](art/googlechromeextension.png)
+
+
+## Rational ClearQuest
+![Rational ClearQuest](art/rationalclearquest.png)
+
+
+
+
+
